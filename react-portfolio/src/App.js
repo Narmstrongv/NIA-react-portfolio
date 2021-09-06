@@ -8,9 +8,9 @@ import Project from './components/Project';
 function App() {
   return (
     <div>
+      <Navigation></Navigation>
       <main>
         <Header></Header>
-        <Navigation></Navigation>
         <Project></Project>
         <Footer></Footer>
       </main>
