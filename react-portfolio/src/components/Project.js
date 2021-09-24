@@ -34,7 +34,7 @@ const Project = () => {
             <p>
             Create-em is a charcuterie board building website. The application is able to adjust for specific dietary restrictions. There are a multitude of preselected options to choose from with more updates on the way.
             </p>
-            <a href="https://github.com/abergtra/HTeamL-Project-3">NoneLeft Github</a>
+            <a href="https://github.com/abergtra/HTeamL-Project-3">Create-em Github</a>
         </div>
     )
 }
